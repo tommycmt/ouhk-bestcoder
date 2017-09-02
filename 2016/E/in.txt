@@ -1,0 +1,14 @@
+5
+09:00 11:00 Lectures
+12:00 12:30 Lectures
+13:00 15:00 Lectures
+14:00 15:25 lectures
+15:30 17:45 Lectures
+5
+00:00 23:59 lectures
+09:00 12:00 Lectures
+12:00 12:30 Lectures
+12:30 15:00 Lectures
+15:00 17:45 Lectures
+1
+12:00 12:30 Lectures
